@@ -1,0 +1,40 @@
+{
+  "name": "minoss-google-home",
+  "title": "Google Home Module for Minoss",
+  "version": "0.1.1",
+  "description": "Google Home Module for Minoss",
+  "main": "package.json",
+  "homepage": "https://github.com/eisbehr-/minoss-google-home",
+  "bugs": "https://github.com/eisbehr-/minoss-google-home/issues",
+  "author": {
+    "name": "Daniel 'Eisbehr' Kern",
+    "email": "jquery@eisbehr.de",
+    "url": "https://daker.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eisbehr-/minoss-google-home.git"
+  },
+  "keywords": [
+    "minoss",
+    "google home",
+    "notify",
+    "autio",
+    "text",
+    "tts"
+  ],
+  "license": "(MIT OR GPL-2.0)",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    },
+    {
+      "type": "GPL-2.0",
+      "url": "http://www.gnu.org/licenses/gpl-2.0.html"
+    }
+  ],
+  "dependencies": {
+    "google-home-audio-tts": "^0.1.4"
+  }
+}
