@@ -1,11 +1,11 @@
 {
   "name": "minoss-google-home",
   "title": "Google Home Module for Minoss",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Google Home Module for Minoss",
   "main": "package.json",
-  "homepage": "https://github.com/eisbehr-/minoss-google-home",
-  "bugs": "https://github.com/eisbehr-/minoss-google-home/issues",
+  "homepage": "https://github.com/dkern/minoss-google-home",
+  "bugs": "https://github.com/dkern/minoss-google-home/issues",
   "author": {
     "name": "Daniel 'Eisbehr' Kern",
     "email": "jquery@eisbehr.de",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:eisbehr-/minoss-google-home.git"
+    "url": "git@github.com:dkern/minoss-google-home.git"
   },
   "keywords": [
     "minoss",

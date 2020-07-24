@@ -1,9 +1,9 @@
 # Google Home for Minoss
-[![GitHub version](https://badge.fury.io/gh/eisbehr-%2Fminoss-google-home.svg)](http://github.com/eisbehr-/minoss-google-home)
+[![GitHub version](https://badge.fury.io/gh/dkern%2Fminoss-google-home.svg)](http://github.com/dkern/minoss-google-home)
 [![NPM version](https://badge.fury.io/js/minoss-google-home.svg)](http://www.npmjs.org/package/minoss-google-home)
-[![Dependency version](https://david-dm.org/eisbehr-/minoss-google-home.png)](https://david-dm.org/eisbehr-/minoss-google-home)
+[![Dependency version](https://david-dm.org/dkern/minoss-google-home.png)](https://david-dm.org/dkern/minoss-google-home)
 
-This module adds support for Pushover notifications to [Minoss](https://github.com/eisbehr-/minoss) server.
+This module adds support for Pushover notifications to [Minoss](https://github.com/dkern/minoss) server.
 The API communication is based on [`google-home-audio-tts`](https://www.npmjs.com/package/google-home-audio-tts).
 
 
@@ -105,7 +105,7 @@ It works the same way as with predefined messages:
 
 
 ## Bugs / Feature request
-Please [report](http://github.com/eisbehr-/minoss-google-home/issues) bugs and feel free to [ask](http://github.com/eisbehr-/minoss-google-home/issues) for new features directly on GitHub.
+Please [report](http://github.com/dkern/minoss-google-home/issues) bugs and feel free to [ask](http://github.com/dkern/minoss-google-home/issues) for new features directly on GitHub.
 
 
 ## License
